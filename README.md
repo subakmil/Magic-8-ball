@@ -1,52 +1,29 @@
 # Mixed Messages
-> Project builds up a program that outputs a new, random message every time a user runs the program. Project is built in JavaScript.
+> Project builds up a program that outputs a new, random message every time a user runs the program. Message is an answer to the user's boolean question. Program acts like a [Magic 8-Ball](https://en.wikipedia.org/wiki/Magic_8-Ball). It will predict your future!
 
 ## Table of contents
-- [Mixed Messages](#mixed-messages)
-  - [Table of contents](#table-of-contents)
+
   - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+Project builds up a message generator program. My objectives are following:
+- put together knowledge I gained from studying coding
+  - JavaScript, Git, GitHub, Command Line, VS Code 
+- predict the future! :8ball::question::innocent:
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Running the program can be a bit complicating for a non-programmer users as it is written purely in JavaScript file. Therefore, there will be 2.0 version built in some more interactive way for the wider audience that will be released soon (hopefully :blush:)! But in case you are familiar with command line and NODE, you can run the script.js file and enjoy some awesome predictions!
 
 ## Code Examples
 Show examples of usage:
 `put-your-code-here`
 
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Based on CodeCademy.com project in Full-Stack Engineer learning path.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@subakmil](https://github.com/subakmil) - feel free to contact me!
