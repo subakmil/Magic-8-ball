@@ -19,8 +19,11 @@ Project builds up a message generator program. My objectives are following:
 Running the program can be a bit complicating for a non-programmer users as it is written purely in JavaScript file. Therefore, there will be 2.0 version built in some more interactive way for the wider audience that will be released soon (hopefully :blush:)! But in case you are familiar with command line and NODE, you can run the script.js file and enjoy some awesome predictions!
 
 ## Code Examples
-Show examples of usage:
-`put-your-code-here`
+**Step 1** Define your question in script.js (line 2).
+![Question definition](img/question-define.png)
+
+**Step 2** Run the code in command line and see your result.
+![Answer](img/answer.png)
 
 ## Inspiration
 Based on CodeCademy.com project in Full-Stack Engineer learning path.
