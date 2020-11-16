@@ -1,5 +1,5 @@
 # Mixed Messages
-> Project builds up a program that outputs a new, random message every time a user runs the program. Project is builts in JavaScript.
+> Project builds up a program that outputs a new, random message every time a user runs the program. Project is built in JavaScript.
 
 ## Table of contents
 - [Mixed Messages](#mixed-messages)
